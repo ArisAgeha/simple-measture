@@ -1,5 +1,5 @@
 {
-  "name": "gesture-customizer",
+  "name": "simple-measure",
   "version": "1.0.0",
   "main": "lib/index.js",
   "description": "performance test helper",
