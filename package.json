@@ -1,6 +1,6 @@
 {
   "name": "simple-measure",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "lib/index.js",
   "description": "performance test helper",
   "license": "MIT",
